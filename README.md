@@ -5,7 +5,7 @@ This data science project aims to create a website that can classify three plant
 
 - Using FastAPI and TF Serve, which use stored models to handle HTTP requests.
 
-- Build a website with reactjs that can predict affected plant categories.
+- Create a website with reactjs that can predict affected plant categories.
 
 # Démo du projet
 https://drive.google.com/file/d/1Fx04Eju2FVqS6ZQ79fYgidGrX49pNCvO/view?usp=share_link
